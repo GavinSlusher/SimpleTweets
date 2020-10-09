@@ -1,4 +1,4 @@
-# Project 2 - *Name of App Here*
+# Project 2 - Simple Tweets
 
 **Simple Tweets** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
@@ -29,9 +29,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/gifs/Week1 - Logging in, infinite pagination and basic stories.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Peek](http://www.cockos.com/licecap/).
 
 ## Notes
 

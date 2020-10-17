@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <drawable name="app_name2">@drawable/ic_twitter_logo_whiteonblue</drawable>
     <string name="app_name">SimpleTweet</string>
     <string name="login_label">Log in</string>
     <string name="intent_scheme">oauth</string>
